@@ -47,6 +47,7 @@ Done :)
 | ``` Faker::word() ``` | Return a random word |
 | ``` Faker::sentence() ``` | Return a random sentence |
 | ``` Faker::paragraph() ``` | Return a random paragraph |
+| ``` Faker::slug($string) ``` | Return sluged of input string |
 
 ## License
 The MIT License (MIT). Please see [License File](LICENSE) for more information.
